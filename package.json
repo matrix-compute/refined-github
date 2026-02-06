@@ -122,7 +122,7 @@
 		"typed-query-selector": "^2.11.3",
 		"typescript": "^5.5.3",
 		"vitest": "^2.0.3",
-		"webpack": "^5.93.0",
+		"webpack": "^5.104.1",
 		"webpack-cli": "^5.1.4",
 		"xo": "^0.59.2"
 	},
